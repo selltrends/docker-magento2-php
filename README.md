@@ -2,9 +2,13 @@
 
 **Description**
 > Docker PHP for Magento 2
+
 This image is built from the official php repository and contains PHP configurations for Magento 2.
+
 ## Docker Content
+
 Some basic Git commands are:
+
 ```
 docker-compose up
 ```
